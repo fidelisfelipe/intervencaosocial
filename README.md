@@ -14,7 +14,7 @@ bem como a resolução de um problema coletivo e o envolvimento dos sujeitos daq
 
 Este hub será um concentrador de projetos sociais para implantação em diversas realidades marginais.
 
-##Sumário de Projetos
+## Sumário de Projetos
 
 	[Desenvolvendo a Quebrada](https://github.com/fidelisfelipe/intervencaosocial/blob/main/projetos/desenvolvendo_a_quebrada/README.md)
 
