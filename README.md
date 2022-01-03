@@ -16,5 +16,5 @@ Este hub será um concentrador de projetos sociais para implantação em diversa
 
 ## Sumário de Projetos
 
-* [Desenvolvendo a Quebrada](https://github.com/fidelisfelipe/intervencaosocial/blob/main/projetos/desenvolvendo_a_quebrada/README.md)
+* [Desenvolvendo a Quebrada](https://github.com/fidelisfelipe/intervencaosocial/tree/main/projetos/educacao/desenvolvendo_a_quebrada)
 
