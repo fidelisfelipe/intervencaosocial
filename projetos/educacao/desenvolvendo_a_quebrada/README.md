@@ -1,6 +1,4 @@
-# desenvolvendo a quebrada
-
-![alt text](https://github.com/fidelisfelipe/intervencaosocial/blob/main/assets/intervencao_logo.png?raw=true)
+# Desenvolvendo a quebrada
 
 Objetivo
 
